@@ -1,0 +1,11 @@
+.menu {
+    max-width: 1024px;
+}
+
+.links Link {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    color: #000000;
+    font-size: 25px;
+}
