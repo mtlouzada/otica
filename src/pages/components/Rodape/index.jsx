@@ -1,4 +1,4 @@
-import Rodape from "@/pages/components/Rodape";
+import styles from "./Rodape.module.css";
 
 export default function Rodape() {
     return(

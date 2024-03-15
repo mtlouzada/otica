@@ -1,11 +1,30 @@
-.menu {
-    max-width: 1024px;
+.containerTopo {
+    width: 100%;
+    padding: 13px;
 }
 
-.links Link {
+.menu {
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+
+.containerLINKS {
     display: flex;
     justify-content: space-between;
     gap: 20px;
+}
+
+.links {
     color: #000000;
-    font-size: 25px;
+    font-size: 17px;
+    font-weight: 500;
+    text-decoration: none;
+    transition-timing-function: ease;
+}
+
+.links:houver {
+    flex-grow: 1;
 }
