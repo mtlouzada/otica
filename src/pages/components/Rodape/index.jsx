@@ -4,7 +4,7 @@ export default function Rodape() {
     return(
     <footer>
         <div>
-            <p>Desenvolvido por Matheus Louzada</p>
+            <p>&copy; Óticas Vida - Desenvolvido por Matheus Louzada</p>
         </div>
     </footer>
     );

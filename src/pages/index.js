@@ -3,6 +3,7 @@ import styles from "@/styles/Home.module.css";
 import Topo from "./components/Topo";
 import Rodape from "./components/Rodape";
 import Banner from "./components/Topo-Banner";
+import Produtos from "./components/Produtos";
 
 export default function Home() {
   return (
@@ -18,6 +19,8 @@ export default function Home() {
         
         <Banner />
         
+        <Produtos />
+
         <Rodape />
       </div>
     </>
