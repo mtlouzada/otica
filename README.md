@@ -1,1 +1,1 @@
-# Status: Developing ⚠️
+# Status: Developing ⚠️ Finish that this month (october)
